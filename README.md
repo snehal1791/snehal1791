@@ -41,3 +41,20 @@
 <p>
     <h2 align="center">Projects</p>
 </p> -->
+    <!-- <p width="500" border=1>
+        <h2 align="center">Dream Job</h2>
+        <h3><b>:earth Location</b></h3>
+        <p>I am open to relocation, working remotely or occasionaly remote work.</p>
+        <h3><b>:party Important Perks</b></h3>
+        <p>I am lookign for:</p>
+        <ul>
+            <li>Challenges</li>
+            <li>Flexible Workhours</li>
+            <li>Responsibilities</li>
+            <li>Training</li>
+        </ul>
+    </p> -->
+<br />
+<p>
+    <img src="DreamJob.png"/>    
+</p>
