@@ -8,8 +8,12 @@
     <a href="https://snehal1791.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/%20-Portfolio-%236C0B80?style=for-the-badge" alt="snehal portfolio" /></a>
     <a href="https://twitter.com/sne_hal_p" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="snehal twitter" /></a>
 </p>
-
-<p align="center"> Application Developer developing skills in ReactJS, HTML, CSS by building projects. Quick learner and a Risk Taker!</p>
+<p align="center">:woman_office_worker: Pronouns: She/Her</p>
+<p>:desktop_computer: Application Developer building business application using low-code/no-code platform CitizenDeveloper.</p>
+<p>:mag: I enjoy building application with ReactJS, HTML, CSS. To flourish in this stack I build personal projects.</p>
+<p>:: I like working with diverse collaborative team, engaging with customers and learning new technologies.</p>
+<p>:muscle: I am a Quick learner and a Risk Taker! I believe every problem has a solution. With this attitude, I always have found ways to solve any problem professionally or personally :smile:</p>
+<p>:potted_plant: I absolutely love plants and flowers, I can talk aboyt them alld ay long.</p>
 <br/>
 <p>
     <h2 align="center">
@@ -24,35 +28,19 @@
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code logo" src="vscode.svg" width="40" height="40"/></a>
     </p>
 <p>
-<!-- <br/>
+<!-- <br />
 <p>
     <h2 align="center">
         <strong>More About Me</strong>
     </h2>
     <hr />
-    <p align="center">sadaffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</p>
+    <p>
+    </p>
     <p align="center">sadaffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</p>
     <h3 align="center">Skills</h3>
     <h3 align="center">Interests</h3>
     <h3 align="center">In My Next Opportunity</h3>
-<p>
-<br/>
-<p>
-    <h2 align="center">Projects</p>
-</p> -->
-    <!-- <p width="500" border=1>
-        <h2 align="center">Dream Job</h2>
-        <h3><b>:earth Location</b></h3>
-        <p>I am open to relocation, working remotely or occasionaly remote work.</p>
-        <h3><b>:party Important Perks</b></h3>
-        <p>I am lookign for:</p>
-        <ul>
-            <li>Challenges</li>
-            <li>Flexible Workhours</li>
-            <li>Responsibilities</li>
-            <li>Training</li>
-        </ul>
-    </p> -->
+<p> -->
 <br />
 <p>
     <img alt="Dream Job Description" src="DreamJob.png"/>    
