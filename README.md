@@ -15,7 +15,6 @@
     <h2 align="center">
         <strong>Languages</strong>
     </h2>
-    <hr/>
     <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img alt="html5 logo" src="HTML5_Badge.svg" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3 logo" src="CSS3_logo.svg" width="40" height="40"/></a>
@@ -41,3 +40,20 @@
 <p>
     <h2 align="center">Projects</p>
 </p> -->
+    <!-- <p width="500" border=1>
+        <h2 align="center">Dream Job</h2>
+        <h3><b>:earth Location</b></h3>
+        <p>I am open to relocation, working remotely or occasionaly remote work.</p>
+        <h3><b>:party Important Perks</b></h3>
+        <p>I am lookign for:</p>
+        <ul>
+            <li>Challenges</li>
+            <li>Flexible Workhours</li>
+            <li>Responsibilities</li>
+            <li>Training</li>
+        </ul>
+    </p> -->
+<br />
+<p>
+    <img alt="Dream Job Description" src="DreamJob.png"/>    
+</p>
