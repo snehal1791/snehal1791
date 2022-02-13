@@ -9,11 +9,15 @@
     <a href="https://twitter.com/sne_hal_p" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="snehal twitter" /></a>
 </p>
 <p align="center">:woman_office_worker: Pronouns: She/Her</p>
-<p>:desktop_computer: Application Developer building business application using low-code/no-code platform CitizenDeveloper.</p>
-<p>:mag: I enjoy building application with ReactJS, HTML, CSS. To flourish in this stack I build personal projects.</p>
-<p>:: I like working with diverse collaborative team, engaging with customers and learning new technologies.</p>
-<p>:muscle: I am a Quick learner and a Risk Taker! I believe every problem has a solution. With this attitude, I always have found ways to solve any problem professionally or personally :smile:</p>
-<p>:potted_plant: I absolutely love plants and flowers, I can talk aboyt them alld ay long.</p>
+<ul>
+<li>:desktop_computer: Application Developer building business application using low-code/no-code platform CitizenDeveloper.</li>
+<li>:mag: I enjoy developing application with ReactJS, HTML, CSS. To flourish in this stack I build personal projects.</li>
+<li>:hammer_and_wrench: I am currently learning React Hooks and Unit Testing with Jest.</li>
+<li>:people_holding_hands: I like working with diverse collaborative team, engaging with customers and learning new technologies.</li>
+<li>:muscle: I am a Quick learner and a Risk Taker! I believe every problem has a solution. With this attitude, I always have found ways to solve any problem professionally or personally :smile:</li>
+<li>:potted_plant: I absolutely love plants and flowers, I can talk about them all day long.</li>
+<li>:thought_balloon: Ask me about journey in USA, learning to Code, projects, my love for plants, places I have travelled...my content. I am happy to connect!</li>
+</ul>
 <br/>
 <p>
     <h2 align="center">
@@ -42,6 +46,7 @@
     <h3 align="center">In My Next Opportunity</h3>
 <p> -->
 <br />
-<p>
+<p align="center">
+    <img alt="More About Me" src="MoreAboutMe.png"/>
     <img alt="Dream Job Description" src="DreamJob.png"/>    
 </p>
