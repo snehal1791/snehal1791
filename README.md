@@ -32,21 +32,23 @@
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code logo" src="vscode.svg" width="40" height="40"/></a>
     </p>
 <p>
-<!-- <br />
-<p>
-    <h2 align="center">
-        <strong>More About Me</strong>
-    </h2>
-    <hr />
-    <p>
-    </p>
-    <p align="center">sadaffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</p>
-    <h3 align="center">Skills</h3>
-    <h3 align="center">Interests</h3>
-    <h3 align="center">In My Next Opportunity</h3>
-<p> -->
 <br />
 <p align="center">
     <img alt="More About Me" src="MoreAboutMe.png"/>
     <img alt="Dream Job Description" src="DreamJob.png"/>    
+</p>
+<p>
+    <h2 align="center">
+        <strong>My Projects</strong>
+    </h2>
+</p>
+<p>
+    <img width=400 alt="Schedule Activity Project" src="scheduleActivity.png"> 
+    <img width=400 alt="My Reads Project" src="myReadsThumbnail.png">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehal1791&repo=scheduleActivity&theme=jolly"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehal1791&repo=my-reads&theme=jolly"/>
+    <img width=400 alt="Order Summary Project" src="orderSummary.png">
+    <p align=left>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehal1791&repo=order-summary-component-main&theme=jolly"/>
+    </p>
 </p>
