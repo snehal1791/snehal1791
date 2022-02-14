@@ -28,7 +28,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3 logo" src="CSS3_logo.svg" width="40" height="40"/></a>
     <a href="https://www.javascript.com/"><img alt="JavaScript logo" src="js_logo.svg" width="40" height="40"/></a>
     <a href="https://reactjs.org/"><img alt="React logo" src="React_logo.svg" width="40" height="40"/></a>
-    <a href="https://github.com/snehal1791"><img alt=GitHub logo" src="GitHub-Mark-64px.png" width="40" height="40"/></a>
+    <a href="https://github.com/snehal1791"><img alt=GitHub logo" src="GitHub-Mark-Light-64px.png" width="40" height="40"/></a>
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code logo" src="vscode.svg" width="40" height="40"/></a>
     </p>
 <p>
@@ -56,9 +56,9 @@
     <h2 align=center>
         <strong>My GitHub Stats</strong>
     </h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=snehal1791&show_icons=true&theme=jolly" width=400>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehal1791&layout=compact&theme=jolly" width=400>
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=snehal1791&show_icons=true&theme=jolly" width=400>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehal1791&layout=compact&theme=jolly" width=400>
 <p>
     <h2 align=center>
         <strong>Resources</strong>
