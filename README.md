@@ -52,3 +52,19 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehal1791&repo=order-summary-component-main&theme=jolly"/>
     </p>
 </p>
+<p>
+    <h2 align=center>
+        <strong>My GitHub Stats</strong>
+    </h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=snehal1791&show_icons=true&theme=jolly" width=400>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehal1791&layout=compact&theme=jolly" width=400>
+</p>
+<p>
+    <h2 align=center>
+        <strong>Resources</strong>
+    </h2>
+    <p>If you like my ReadMe and would like to create one, follow :point_down: </p>
+    <ul>
+        <li><a href="https://dev.to/yuridevat/how-to-create-a-stunning-github-profile-2mh5">How to create a stunning GitHub Profile</a></li>
+        <li><a href="https://github.com/anuraghazra/github-readme-stats#themes">GitHub Readme Stats</a></li>
+</p>
