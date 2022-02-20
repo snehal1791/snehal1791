@@ -16,7 +16,7 @@
 <li>:people_holding_hands: I like working with diverse collaborative team, engaging with customers and learning new technologies.</li>
 <li>:muscle: I am a Quick learner and a Risk Taker! I believe every problem has a solution. With this attitude, I always have found ways to solve any problem professionally or personally :smile:</li>
 <li>:potted_plant: I absolutely love plants and flowers, I can talk about them all day long.</li>
-<li>:thought_balloon: Ask me about journey in USA, learning to Code, projects, my love for plants, places I have travelled...my content. I am happy to connect!</li>
+<li>:thought_balloon: Ask me about journey in USA, learning to Code, projects, my love for plants, places I have travelled...or my content, I am happy to connect!</li>
 </ul>
 <br/>
 <p>
@@ -43,13 +43,25 @@
     </h2>
 </p>
 <p>
-    <img width=400 alt="Schedule Activity Project" src="scheduleActivity.png"> 
-    <img width=400 alt="My Reads Project" src="myReadsThumbnail.png">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehal1791&repo=scheduleActivity&theme=jolly"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehal1791&repo=my-reads&theme=jolly"/>
-    <img width=400 alt="Order Summary Project" src="orderSummary.png">
+    <a href="https://snehal-schedule-activity.netlify.app/">
+        <img width=400 alt="Schedule Activity Project" src="scheduleActivity.png">
+    </a>
+    <a href="https://snehal1791.github.io/my-reads">
+        <img width=400 alt="My Reads Project" src="myReadsThumbnail.png">
+    </a>
+    <a href="https://github.com/snehal1791/scheduleActivity">
+        <img alt="schedule activity app description" src="https://github-readme-stats.vercel.app/api/pin/?username=snehal1791&repo=scheduleActivity&theme=jolly"/>
+    </a>
+    <a href="https://github.com/snehal1791/my-reads">
+        <img alt="my reads app description" src="https://github-readme-stats.vercel.app/api/pin/?username=snehal1791&repo=my-reads&theme=jolly"/>
+    </a>
+    <a href="https://snehal1791.github.io/order-summary-component-main/">
+        <img width=400 alt="Order Summary Project" src="orderSummary.png">
+    </a>
     <p align=left>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehal1791&repo=order-summary-component-main&theme=jolly"/>
+        <a href="https://github.com/snehal1791/order-summary-component-main">
+            <img alt="order summary app description" src="https://github-readme-stats.vercel.app/api/pin/?username=snehal1791&repo=order-summary-component-main&theme=jolly"/>
+        </a>
     </p>
 </p>
 <p>
